@@ -10,7 +10,7 @@ import java.net.*;
 import java.util.regex.*;
 import java.util.*;
 import java.awt.event.*;
-import ord.dyndns.tfud.ApacheLogger.VirtualHost;
+import org.dyndns.tfud.ApacheLogger.VirtualHost;
 /**
  *
  * @author  bjr
